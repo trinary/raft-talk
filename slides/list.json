@@ -5,5 +5,13 @@
     "purpose.md",
     "definition.md",
     "what-is-raft.md",
-    "overview.md"
+    "overview.md",
+    "leader-election.md",
+    "leader-election-2.md",
+    "election.md",
+    "split.md",
+    "log-repl.md",
+    "safety-one.md",
+    "safety-two.md",
+    "safety-three.md"
 ]
