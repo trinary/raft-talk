@@ -13,5 +13,9 @@
     "log-repl.md",
     "safety-one.md",
     "safety-two.md",
-    "safety-three.md"
+    "safety-three.md",
+    "safety-proof.md",
+    "config-changes.md",
+    "joint-consensus.md",
+    "change-process.md"
 ]
