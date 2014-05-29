@@ -7,8 +7,8 @@ Given that there can only be one **leader** at a time, and **term** and **index*
 
  ***
 
- The second property is ensured by a consistency check in the _AppendEntry_ RPC. The leader sends the **term** and **index** of the entry preceeding the new entry. If the **follower** doesn't have that entry in its index, it rejects the call.
+ The second property is ensured by a consistency check in the _appendEntry_ RPC. The leader sends the **term** and **index** of the entry preceeding the new entry. If the **follower** doesn't have that entry in its index, it rejects the call.
 
  ***
 
- If followers get an _AppendEntry_ that conflicts with an existing entry, the new data wins. (_continued_)
+ If followers get an _appendEntry_ that conflicts with an existing entry, the new data wins. (_continued_)

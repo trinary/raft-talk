@@ -8,5 +8,5 @@ This is where Raft opts for understandability over deterministic behavior.  The 
 
 ***
 
-One node will re-issue a _RequestVote_ RPC (with a larger **term**) before the others time out, getting the first shot at the next **leadership**.
+One node will re-issue a _requestVote_ RPC (with a larger **term**) before the others time out, getting the first shot at the next **leadership**.
 

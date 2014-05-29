@@ -6,6 +6,7 @@
     "definition.md",
     "what-is-raft.md",
     "overview.md",
+    "the-log.md",
     "leader-election.md",
     "leader-election-2.md",
     "election.md",
@@ -17,5 +18,14 @@
     "safety-proof.md",
     "config-changes.md",
     "joint-consensus.md",
-    "change-process.md"
+    "change-process.md",
+    "mid-change.md",
+    "log-compaction.md",
+    "snapshots.md",
+    "slow-follower.md",
+    "install-snapshot.md",
+    "clients.md",
+    "client-caveats.md",
+    "client-caveats-two.md",
+    "conclusion.md"
 ]

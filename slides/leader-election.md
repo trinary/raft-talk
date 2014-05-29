@@ -8,7 +8,7 @@ The **term** is a monotonically increasing counter, which is included as a prope
 
 ***
 
-The **Leader** sends **heartbeat** messages to all reachable nodes, in the form of an _AppendEntry_ RPC with no data.
+The **Leader** sends **heartbeat** messages to all reachable nodes, in the form of an _appendEntry_ RPC with no data.
 
 ***
 
