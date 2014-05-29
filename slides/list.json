@@ -8,7 +8,6 @@
     "overview.md",
     "the-log.md",
     "leader-election.md",
-    "leader-election-2.md",
     "election.md",
     "split.md",
     "log-repl.md",
