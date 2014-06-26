@@ -1,6 +1,6 @@
 ##  What is Consensus
 
-A consensus algorithm is a set of instructions that allow collection of computers to work as a fault-tolerant group.
+A consensus algorithm is a set of instructions that allow a collection of computers to work as a fault-tolerant group.
 
 This usually means the reliable management of shared state.
 
