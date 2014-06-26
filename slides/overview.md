@@ -6,7 +6,7 @@ Raft describes how systems elect a leader, issue log writes to the followers, an
 
 It makes some guarantees:
 
-* One leader at a time
+* When there's an election, only one node will win
 * Leaders only append their own log entries, never overwrite them
 * If two logs have a particular entry, they match up to that point
 * If a log entry is committed, all future leaders will have it
